@@ -1,0 +1,19 @@
+Title: DEFAULT
+
+----
+
+Text: <table class="body"><tr><td class="center" align="center" valign="top"><center>
+
+	<table class="row"><tr><td class="center" align="center"><center>
+		<table class="container" id="header"><tr><td class="wrapper last" style="padding-top:0px!important;">
+		<table class="twelve columns"><tr >
+			<td>
+				<h1>Company Name</h1>
+				<h4>This is a default template.</h4>
+			</td>
+		</tr></table>
+		</td></tr></table>
+	</center></td></tr></table>
+
+	<table class="container" id="content"><tr><td>
+	<!-- Content Below -->

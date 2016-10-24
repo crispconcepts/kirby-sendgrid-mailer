@@ -1,0 +1,37 @@
+Title: DEFAULT
+
+----
+
+Text: <!-- Content Above -->
+	<br/><hr/>
+	<!-- Faux Footer -->
+	<table class="row"><tr><td class="wrapper last">
+	<table class="twelve columns"><tr>
+		<td class="text-pad">
+			<p class="right">
+				Your Company Logo or Slogan or Faux Footer type content, which
+				appears in the main body. This is a DEFAULT template.
+			</p>
+		</td>
+		<td class="expander"></td>
+	</tr></table>
+	</td></tr></table>
+
+	<!-- Footer -->
+	<table class="row footer"><tr><td class="wrapper last">
+	<table class="twelve columns"><tr>
+		<td align="center" class="text-pad">
+			<p class="center" style="font-size:11px!important;">
+				© 2015 Your Company.
+			</p>
+		</td>
+		<td class="expander"></td>
+	</tr></table>
+	</td></tr></table>
+
+
+	<!-- container end below -->
+	</td></tr></table>
+
+<!-- body end below -->
+</center></td></tr></table>
